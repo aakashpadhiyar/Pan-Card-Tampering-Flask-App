@@ -1,0 +1,7 @@
+Flask
+imutils
+Keras
+opencv-python
+Pillow
+gunicorn
+scikit-image
